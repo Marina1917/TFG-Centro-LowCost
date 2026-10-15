@@ -1,4 +1,4 @@
-# TFG-Centro-LowCost
+# TFG-Sistema de Computación Paralelo Low-cost
 # GPUs NVIDIA legacy en una plataforma AM5 con Proxmox VE
 
 Material complementario del Trabajo Fin de Grado Sistema de Computación Paralelo Low-cost, Grado en Ingeniería de Computadores, Universidad de Sevilla.
